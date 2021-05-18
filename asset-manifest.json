@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/MarkoDanic/prvi_push/static/js/main.5d741b93.chunk.js",
+    "main.js.map": "/MarkoDanic/prvi_push/static/js/main.5d741b93.chunk.js.map",
+    "runtime-main.js": "/MarkoDanic/prvi_push/static/js/runtime-main.c859baff.js",
+    "runtime-main.js.map": "/MarkoDanic/prvi_push/static/js/runtime-main.c859baff.js.map",
+    "static/js/2.a57bd160.chunk.js": "/MarkoDanic/prvi_push/static/js/2.a57bd160.chunk.js",
+    "static/js/2.a57bd160.chunk.js.map": "/MarkoDanic/prvi_push/static/js/2.a57bd160.chunk.js.map",
+    "index.html": "/MarkoDanic/prvi_push/index.html",
+    "static/js/2.a57bd160.chunk.js.LICENSE.txt": "/MarkoDanic/prvi_push/static/js/2.a57bd160.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c859baff.js",
+    "static/js/2.a57bd160.chunk.js",
+    "static/js/main.5d741b93.chunk.js"
+  ]
+}
